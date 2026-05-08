@@ -1,0 +1,11 @@
+BAUD_RATE   = 115200
+MAX_DIST    = 115.2
+SWEEP_DEG   = 60
+TRAIL_STEPS = 40
+FPS         = 25
+
+BG        = "#050f05"
+GREEN_DIM = "#003300"
+GREEN_MID = "#005500"
+GREEN_ON  = "#00ff41"
+GREEN_BRT = "#00cc33"

@@ -1,5 +1,5 @@
 BAUD_RATE   = 115200
-MAX_DIST    = 115.2
+MAX_DIST    = 80
 SWEEP_DEG   = 60
 TRAIL_STEPS = 40
 FPS         = 25
